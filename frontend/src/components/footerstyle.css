@@ -1,0 +1,13 @@
+.footer{
+    background-color: #A9C3EF; 
+    color: #1A237E; 
+}
+.list{
+    list-style-type: none;
+}
+.list-item:hover{
+    color: white;
+}
+.icon:hover{
+    color: white;
+}

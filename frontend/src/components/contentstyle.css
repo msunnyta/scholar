@@ -1,0 +1,32 @@
+.menu{
+background-color: #FFCA28;
+}
+.text{
+  color: #1A237E;
+}
+.text:hover{
+  color:white;
+}
+.carousel slide{
+  height: 400px;
+  width: 900px;
+}
+.card-img{
+  height: 400px;
+  width: 1100px;
+}
+.card:hover{
+background-color:#A9C3EF;
+}
+.btn{
+  background-color: #FFCA28; 
+    color: #1A237E;
+}
+.btn:hover{
+  background-color:white;
+  border-color: #FFCA28;
+}
+
+
+
+  
